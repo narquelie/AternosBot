@@ -3,7 +3,7 @@ if (
   !process.env.server
 ) {
   console.log(
-    "Используйте бота так: node index.js <IP адрес сервера> [<имя аккаунта>] [<пароль от аккаунта>]"
+    "Используйте бота так: node index.js <narquelie.aternos.me> [<nrqbot>] [<пароль от аккаунта>]"
   );
   process.exit(1);
 }
